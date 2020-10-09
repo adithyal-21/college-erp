@@ -1,1 +1,1 @@
-# college-erp
+# internship-school-erp
